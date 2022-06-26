@@ -88,21 +88,21 @@ p{
     .box1{
         border: 1px solid black;
         float: left;
-        width: 48%;
-        margin: 1%;
+        width: 45%;
+        margin: 2%;
     }
     .box2{
         border: 1px solid black;
         float: left;
-        width: 48%;
-        margin: 1%;
+        width: 45%;
+        margin: 2%;
 
     }
     .box3{
         border: 1px solid black;
         float: left;
-        width: 98%;
-        margin: 1%;
+        width: 95%;
+        margin: 2%;
     }
     
 
@@ -112,21 +112,21 @@ p{
     .box1{
         border: 1px solid black;
         float: left;
-        width: 98%;
-        margin: 1%;
+        width: 95%;
+        margin: 3%;
     }
     .box2{
         border: 1px solid black;
         float: left;
-        width: 98%;
-        margin: 1%;
+        width: 95%;
+        margin: 3%;
 
     }
     .box3{
         border: 1px solid black;
         float: left;
-        width: 98%;
-        margin: 1%;
+        width: 95%;
+        margin: 3%;
     }
     
 
